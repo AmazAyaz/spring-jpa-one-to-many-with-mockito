@@ -1,4 +1,4 @@
-package com.myjavablog;
+package com.amaz;
 
 import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.when;
