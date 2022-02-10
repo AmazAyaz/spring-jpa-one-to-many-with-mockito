@@ -1,4 +1,4 @@
-package com.myjavablog.controller;
+package com.amaz.controller;
 
 import java.util.List;
 
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.myjavablog.model.Department;
-import com.myjavablog.service.DepartmentService;
+import com.amaz.model.Department;
+import com.amaz.service.DepartmentService;
 
 @RestController
 public class DepartmentController {

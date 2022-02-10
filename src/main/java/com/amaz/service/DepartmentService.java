@@ -1,7 +1,7 @@
-package com.myjavablog.service;
+package com.amaz.service;
 
-import com.myjavablog.exception.NotFoundException;
-import com.myjavablog.model.Department;
+import com.amaz.exception.NotFoundException;
+import com.amaz.model.Department;
 
 import java.util.List;
 import java.util.Optional;

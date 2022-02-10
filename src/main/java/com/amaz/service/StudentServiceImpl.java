@@ -1,7 +1,8 @@
-package com.myjavablog.service;
+package com.amaz.service;
 
-import com.myjavablog.dao.StudentRepository;
-import com.myjavablog.model.Student;
+import com.amaz.dao.StudentRepository;
+import com.amaz.model.Student;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

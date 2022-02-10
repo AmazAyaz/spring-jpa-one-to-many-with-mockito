@@ -1,8 +1,9 @@
-package com.myjavablog.dao;
+package com.amaz.dao;
 
-import com.myjavablog.model.Department;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
+
+import com.amaz.model.Department;
 
 @Repository
 public interface DepartmentRepository extends JpaRepository<Department, Long>{

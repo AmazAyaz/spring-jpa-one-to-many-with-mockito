@@ -1,4 +1,4 @@
-package com.myjavablog.exception;
+package com.amaz.exception;
 
 public class NotFoundException extends Exception {
 

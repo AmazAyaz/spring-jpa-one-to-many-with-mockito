@@ -13,11 +13,11 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.myjavablog.dao.DepartmentRepository;
-import com.myjavablog.dao.StudentRepository;
-import com.myjavablog.model.Department;
-import com.myjavablog.service.DepartmentService;
-import com.myjavablog.service.StudentService;
+import com.amaz.dao.DepartmentRepository;
+import com.amaz.dao.StudentRepository;
+import com.amaz.model.Department;
+import com.amaz.service.DepartmentService;
+import com.amaz.service.StudentService;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest

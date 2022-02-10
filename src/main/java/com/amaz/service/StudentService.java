@@ -1,8 +1,8 @@
-package com.myjavablog.service;
-
-import com.myjavablog.model.Student;
+package com.amaz.service;
 
 import java.util.List;
+
+import com.amaz.model.Student;
 
 public interface StudentService {
 

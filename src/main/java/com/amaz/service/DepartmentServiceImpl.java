@@ -1,8 +1,9 @@
-package com.myjavablog.service;
+package com.amaz.service;
 
-import com.myjavablog.dao.DepartmentRepository;
-import com.myjavablog.exception.NotFoundException;
-import com.myjavablog.model.Department;
+import com.amaz.dao.DepartmentRepository;
+import com.amaz.exception.NotFoundException;
+import com.amaz.model.Department;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

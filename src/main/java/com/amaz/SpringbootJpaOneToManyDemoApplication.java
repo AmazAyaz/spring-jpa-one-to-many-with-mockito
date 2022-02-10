@@ -1,4 +1,4 @@
-package com.myjavablog;
+package com.amaz;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

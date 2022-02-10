@@ -1,4 +1,4 @@
-package com.myjavablog.model;
+package com.amaz.model;
 
 import javax.persistence.*;
 
